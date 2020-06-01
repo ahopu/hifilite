@@ -1243,45 +1243,6 @@ section .section-title {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
-#accordion-style-1 h1,
-#accordion-style-1 a{
-    color:#D6062D;
-}
-#accordion-style-1 .btn-link {
-    font-weight: 400;
-    color: #D6062D;
-    background-color: transparent;
-    text-decoration: none !important;
-    font-size: 16px;
-    font-weight: bold;
-	padding-left: 25px;
-}
-
-#accordion-style-1 .card-body {
-    border-top: 2px solid #D6062D;
-}
-
-#accordion-style-1 .card-header .btn.collapsed .fa.main{
-	display:none;
-}
-
-#accordion-style-1 .card-header .btn .fa.main{
-	background: #D6062D;
-    padding: 13px 11px;
-    color: #ffffff;
-    width: 35px;
-    height: 41px;
-    position: absolute;
-    left: -1px;
-    top: 10px;
-    border-top-right-radius: 7px;
-    border-bottom-right-radius: 7px;
-	display:block;
-}
-
 
 /*--------------------------------------------------------------
 # Contact
