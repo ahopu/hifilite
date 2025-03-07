@@ -1,2 +1,1 @@
-# xebecware
-Web design &amp; development company in Bangladesh
+International Business Zone - ibzstore.com
